@@ -1,6 +1,6 @@
-## ecommerce-analysis
-
 ![](https://retail-merchandiser.com/wp-content/uploads/sites/8/2023/09/Online-retail-shops-scaled.jpeg)
+
+# Ecommerce-analysis
 
 ## Overview
 
