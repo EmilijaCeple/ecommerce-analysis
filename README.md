@@ -31,14 +31,14 @@ The goal is to provide data-driven insights and strategic recommendations by exp
 ## Files & structure
 
 📂 uk-retail-sales-analysis
-- 📊 Dashboard (PDF) – Visual insights into key metrics
-- 🎤 Presentation (PowerPoint & PDF) – Summary of findings & recommendations
-- 📄 Report (PDF) – Detailed analysis & methodology
+* Dashboard (PDF)
+* Presentation (Power Point & PDF)
+* Report (PDF)
 
 🔗 Additional resources:
-- 📜 Written Report (Google Docs)
-- 📊 Queries, Results & Charts (Google Sheets)
-- 📂 Dataset (Kaggle)
+* [Writen Report in Google Documents](https://docs.google.com/document/d/1xOexR0T-6rcA6nhBMgl_ErhlhgmUZBqnT-bKwLk5GKs/edit?usp=sharing)
+* [Queries, Results & Charts in Google Sheets](https://docs.google.com/spreadsheets/d/1YDNDDkQK7t6vGIQCd3hg9ASWeLvgLu39QiNfEy9zoRI/edit?usp=sharing)
+* [Dataset](https://www.kaggle.com/datasets/tunguz/online-retail-ii)
   
 ## Contributing
 
